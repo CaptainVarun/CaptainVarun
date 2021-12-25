@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Varun Kamath</h1>
 <h3 align="center">I am a freelancer with experience developing mobile and web applications, node.js applications and APIs.</h3>
 
-- 🌱 I’m immersed into **NodeJs, JavaScript and React**
+- 🌱 I’m immersed into **NodeJS, JavaScript and React**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **varunzone@gmail.com**
 
