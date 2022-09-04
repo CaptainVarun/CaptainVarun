@@ -4,7 +4,7 @@
 - 🌱 I’m immersed into **NodeJS, JavaScript and React**
 - 🔭  I’m currently working on an amazing project :)
 - 💬 Ask me anything related to NodeJS, JavaScript and React
-- 📫 How to reach me **varunzone@gmail.com**
+- 📫 How to reach me **webvkzone@gmail.com**
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
